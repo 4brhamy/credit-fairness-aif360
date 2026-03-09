@@ -5,7 +5,7 @@ This repository contains a Master's-level socio-technical evaluation and mitigat
 
 ## Files in this Repository
 * `Fairness_Assignment.ipynb`: The Jupyter Notebook containing EDA, model training, fairness evaluation (SPD, DI, EOD, AOD), and bias mitigation via Reweighing.
-* `Fairness_Metrics_Report.pdf`: A comprehensive 7-page academic report detailing the socio-technical justification, methodology, results, and MLOps deployment considerations.
+* `Fairness_Metrics_Report.pdf`: Academic report detailing the socio-technical justification, methodology, results, and MLOps deployment considerations.
 
 ## Reproducibility Instructions
 To run this code locally and reproduce the findings:
